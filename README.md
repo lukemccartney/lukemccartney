@@ -1,5 +1,5 @@
 # Luke McCartney
-## Computer Science Student MSc @ The University of Nottingham
+## Computer Science Student @ The University of Nottingham
 
 <!-- Formerly a Bachelors Student at the University of Lincoln.-->
 
