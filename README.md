@@ -1,5 +1,9 @@
-### Hi there 👋
+# Luke McCartney
+## Computer Science Student MSc @ The University of Nottingham
 
+<!-- Formerly a Bachelors Student at the University of Lincoln.-->
+
+Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
 <!--
 **lukemccartney/lukemccartney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
