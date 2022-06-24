@@ -2,9 +2,8 @@
 ## Computer Science Student @ The University of Nottingham
 
 <!-- Formerly a Bachelors Student at the University of Lincoln.-->
-
-Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
 <!--
+Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
 **lukemccartney/lukemccartney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
