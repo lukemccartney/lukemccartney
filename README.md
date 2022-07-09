@@ -1,7 +1,5 @@
 # Luke McCartney, BSc
 ## Computer Science MSc Student @ The University of Nottingham
-🎼
-🧑🏼‍💻
 <!-- Formerly a BSc Student at the University of Lincoln.-->
 <!--
 Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
