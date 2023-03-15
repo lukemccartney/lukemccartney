@@ -1,7 +1,16 @@
-# Luke McCartney, BSc
-## Computer Science MSc Student @ The University of Nottingham
-<!-- Formerly a BSc Student at the University of Lincoln.-->
+# Luke McCartney
+### Computer Science at The University of Nottingham
+#### Modules:
+- Real World Functional Programming</br>
+- Real World Functional Programming Project</br>
+- Machine Learning</br>
+- Data Modelling and Analysis</br>
+- Advanced Computer Networks</br>
+- Masters Project</br>
+- Research Methods
+
 <!--
+### Previously at The University of Lincoln (2015 - 2019)
 Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
 **lukemccartney/lukemccartney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
