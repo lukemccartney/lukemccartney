@@ -1,14 +1,4 @@
-# Luke McCartney
-### Computer Science at The University of Nottingham
-#### Modules:
-- Real World Functional Programming</br>
-- Real World Functional Programming Project</br>
-- Machine Learning</br>
-- Data Modelling and Analysis</br>
-- Advanced Computer Networks</br>
-- Masters Project</br>
-- Research Methods
-
+# Luke McCartney BSc (Hons) PGDip
 <!--
 ### Previously at The University of Lincoln (2015 - 2019)
 Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
