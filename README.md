@@ -1,4 +1,5 @@
 # Luke McCartney BSc (Hons) PGDip
+A Computer Science Graduate with a Postgraduate Diploma also in Computer Science. Mostly experienced with Python and TypeScript but have also written code in a variety of other languages such as Haskell, C# and C++.
 <!--
 ### Previously at The University of Lincoln (2015 - 2019)
 Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
