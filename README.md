@@ -3,7 +3,7 @@ A Computer Science Graduate with a Postgraduate Diploma. Experienced with Python
 <br><br>
 Experienced in writing HTML, CSS and JavaScript and creating Web Applications using the Angular framework.
 <br><br>
-My work during my Master's at Nottingham involved developing tools to aid in the creation and composition of Music, I am hoping to release them soon!
+My work during my Master's at Nottingham involved developing tools to aid in the creation and composition of Music, I am hoping to release them soon! I also delve into Finance where possible.
 <!--
 ### Previously at The University of Lincoln (2015 - 2019)
 Interested in Haskell, Functional Programming, Python, Machine Learning and other things...
